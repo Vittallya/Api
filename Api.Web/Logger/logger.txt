@@ -1,0 +1,110 @@
+Path: /Files/Name
+QueryString: ?name=kjdzfgklh&category=PRESENTATION
+Method: DELETE
+RequestBody: 
+Requested at: 08.02.2021 10:41:02
+Response: This file was not found
+ResponseCode: 404
+Responded at: 08.02.2021 10:41:09
+
+
+Path: /Files/Name
+QueryString: ?name=%3Efdlhk%27%3Beihp
+Method: GET
+RequestBody: 
+Requested at: 08.02.2021 10:42:43
+Response: []
+ResponseCode: 200
+Responded at: 08.02.2021 10:42:45
+
+
+Path: /Files/Name
+QueryString: ?name=%3Efdlhk%27%3Beihp%3Blerkyprtyou
+Method: GET
+RequestBody: 
+Requested at: 08.02.2021 10:42:58
+Response: []
+ResponseCode: 200
+Responded at: 08.02.2021 10:42:58
+
+
+Path: /Files/All
+QueryString: ?category=PRESENTATION
+Method: GET
+RequestBody: 
+Requested at: 10.02.2021 10:35:51 +03:00
+Response: [{"id":1,"name":"bkg-blu.jpg","category":"PRESENTATION","versions":[{"id":1,"size":289940,"uploadDateTime":"2021-02-01T15:03:09.6834634","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_bkg-blu.jpg","docId":1},{"id":9,"size":289940,"uploadDateTime":"2021-02-09T12:49:37.2889639","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_bkg-blu.jpg","docId":1}]},{"id":3,"name":"iisstart.htm","category":"PRESENTATION","versions":[{"id":4,"size":691,"uploadDateTime":"2021-02-05T11:30:13.6206102","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_iisstart.htm","docId":3},{"id":8,"size":691,"uploadDateTime":"2021-02-09T12:49:01.2080399","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_iisstart.htm","docId":3}]},{"id":6,"name":"w-brand.png","category":"PRESENTATION","versions":[{"id":7,"size":10165,"uploadDateTime":"2021-02-05T12:31:52.2272038","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_w-brand.png","docId":6}]},{"id":1007,"name":"test.txt","category":"PRESENTATION","versions":[{"id":1010,"size":5,"uploadDateTime":"2021-02-10T10:16:30.571727","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_test.txt","docId":1007},{"id":1011,"size":5,"uploadDateTime":"2021-02-10T10:17:41.6994929","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_test.txt","docId":1007},{"id":1012,"size":5,"uploadDateTime":"2021-02-10T10:17:45.0948242","release":3,"path":"C:\\Other\\Files\\/PRESENTATION_3_test.txt","docId":1007}]},{"id":1008,"name":"test1.txt","category":"PRESENTATION","versions":[{"id":1013,"size":5,"uploadDateTime":"2021-02-10T10:22:17.9313409","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_test1.txt","docId":1008},{"id":1014,"size":5,"uploadDateTime":"2021-02-10T10:22:40.0020602","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_test1.txt","docId":1008},{"id":1015,"size":5,"uploadDateTime":"2021-02-10T10:23:00.6409092","release":3,"path":"C:\\Other\\Files\\/PRESENTATION_3_test1.txt","docId":1008},{"id":1016,"size":5,"uploadDateTime":"2021-02-10T10:23:11.9399047","release":4,"path":"C:\\Other\\Files\\/PRESENTATION_4_test1.txt","docId":1008}]}]
+ResponseCode: 200
+Responded at: 10.02.2021 10:35:53 +03:00
+
+
+Path: /Files/Name
+QueryString: ?name=test.txt
+Method: GET
+RequestBody: 
+Requested at: 10.02.2021 10:36:38 +03:00
+Response: [{"id":1007,"name":"test.txt","category":"PRESENTATION","versions":[{"id":1010,"size":5,"uploadDateTime":"2021-02-10T10:16:30.571727","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_test.txt","docId":1007},{"id":1011,"size":5,"uploadDateTime":"2021-02-10T10:17:41.6994929","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_test.txt","docId":1007},{"id":1012,"size":5,"uploadDateTime":"2021-02-10T10:17:45.0948242","release":3,"path":"C:\\Other\\Files\\/PRESENTATION_3_test.txt","docId":1007}]},{"id":1010,"name":"test.txt","category":"APPLICATION","versions":[{"id":1018,"size":5,"uploadDateTime":"2021-02-10T10:24:00.1325507","release":1,"path":"C:\\Other\\Files\\/APPLICATION_1_test.txt","docId":1010},{"id":1019,"size":5,"uploadDateTime":"2021-02-10T10:24:25.4850136","release":2,"path":"C:\\Other\\Files\\/APPLICATION_2_test.txt","docId":1010}]},{"id":1011,"name":"test.txt","category":"OTHER","versions":[{"id":1020,"size":5,"uploadDateTime":"2021-02-10T10:24:47.9526987","release":1,"path":"C:\\Other\\Files\\/OTHER_1_test.txt","docId":1011}]}]
+ResponseCode: 200
+Responded at: 10.02.2021 10:36:38 +03:00
+
+
+Path: /Files/Name
+QueryString: ?name=test.txt
+Method: GET
+RequestBody: 
+Requested at: 10.02.2021 10:37:54 +03:00
+Response: [{"id":1010,"name":"test.txt","category":"APPLICATION","versions":[{"id":1018,"size":5,"uploadDateTime":"2021-02-10T10:24:00.1325507","release":1,"path":"C:\\Other\\Files\\/APPLICATION_1_test.txt","docId":1010},{"id":1019,"size":5,"uploadDateTime":"2021-02-10T10:24:25.4850136","release":2,"path":"C:\\Other\\Files\\/APPLICATION_2_test.txt","docId":1010}]},{"id":1011,"name":"test.txt","category":"OTHER","versions":[{"id":1020,"size":5,"uploadDateTime":"2021-02-10T10:24:47.9526987","release":1,"path":"C:\\Other\\Files\\/OTHER_1_test.txt","docId":1011}]}]
+ResponseCode: 200
+Responded at: 10.02.2021 10:37:54 +03:00
+
+
+Path: /Files/Name
+QueryString: ?name=test.txt
+Method: GET
+RequestBody: 
+Requested at: 10.02.2021 10:38:01 +03:00
+Response: [{"id":1010,"name":"test.txt","category":"APPLICATION","versions":[{"id":1018,"size":5,"uploadDateTime":"2021-02-10T10:24:00.1325507","release":1,"path":"C:\\Other\\Files\\/APPLICATION_1_test.txt","docId":1010},{"id":1019,"size":5,"uploadDateTime":"2021-02-10T10:24:25.4850136","release":2,"path":"C:\\Other\\Files\\/APPLICATION_2_test.txt","docId":1010}]},{"id":1011,"name":"test.txt","category":"OTHER","versions":[{"id":1020,"size":5,"uploadDateTime":"2021-02-10T10:24:47.9526987","release":1,"path":"C:\\Other\\Files\\/OTHER_1_test.txt","docId":1011}]}]
+ResponseCode: 200
+Responded at: 10.02.2021 10:38:01 +03:00
+
+
+Path: /Files/Name
+QueryString: ?name=test1.txt
+Method: GET
+RequestBody: 
+Requested at: 10.02.2021 10:39:16 +03:00
+Response: [{"id":1008,"name":"test1.txt","category":"PRESENTATION","versions":[{"id":1013,"size":5,"uploadDateTime":"2021-02-10T10:22:17.9313409","release":1,"path":"C:\\Other\\Files\\/PRESENTATION_1_test1.txt","docId":1008},{"id":1014,"size":5,"uploadDateTime":"2021-02-10T10:22:40.0020602","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_test1.txt","docId":1008},{"id":1015,"size":5,"uploadDateTime":"2021-02-10T10:23:00.6409092","release":3,"path":"C:\\Other\\Files\\/PRESENTATION_3_test1.txt","docId":1008},{"id":1016,"size":5,"uploadDateTime":"2021-02-10T10:23:11.9399047","release":4,"path":"C:\\Other\\Files\\/PRESENTATION_4_test1.txt","docId":1008}]},{"id":1009,"name":"test1.txt","category":"APPLICATION","versions":[{"id":1017,"size":5,"uploadDateTime":"2021-02-10T10:23:38.2998711","release":1,"path":"C:\\Other\\Files\\/APPLICATION_1_test1.txt","docId":1009}]}]
+ResponseCode: 200
+Responded at: 10.02.2021 10:39:16 +03:00
+
+
+Path: /files/all
+QueryString: 
+Method: GET
+RequestBody: 
+Requested at: 11.02.2021 10:10:17 +03:00
+Response: [{"id":8,"name":"NTF.txt","category":"PRESENTATION","versions":[{"id":12,"size":10,"uploadDateTime":"2021-01-28T20:21:55.8793685","release":1,"path":"E:\\Other\\Files\\/PRESENTATION_1_NTF.txt","docId":8},{"id":13,"size":10,"uploadDateTime":"2021-02-10T18:08:56.7520948","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_NTF.txt","docId":8}]},{"id":9,"name":"NTF1.txt","category":"OTHER","versions":[{"id":14,"size":10,"uploadDateTime":"2021-02-10T18:25:19.5931388","release":1,"path":"C:\\Other\\Files\\/OTHER_1_NTF1.txt","docId":9}]}]
+ResponseCode: 200
+Responded at: 11.02.2021 10:10:31 +03:00
+
+
+Path: /favicon.ico
+QueryString: 
+Method: GET
+RequestBody: 
+Requested at: 11.02.2021 10:10:32 +03:00
+Response: 
+ResponseCode: 404
+Responded at: 11.02.2021 10:10:32 +03:00
+
+
+Path: /files/all
+QueryString: 
+Method: GET
+RequestBody: 
+Requested at: 11.02.2021 10:11:03 +03:00
+Response: [{"id":8,"name":"NTF.txt","category":"PRESENTATION","versions":[{"id":12,"size":10,"uploadDateTime":"2021-01-28T20:21:55.8793685","release":1,"path":"E:\\Other\\Files\\/PRESENTATION_1_NTF.txt","docId":8},{"id":13,"size":10,"uploadDateTime":"2021-02-10T18:08:56.7520948","release":2,"path":"C:\\Other\\Files\\/PRESENTATION_2_NTF.txt","docId":8}]},{"id":9,"name":"NTF1.txt","category":"OTHER","versions":[{"id":14,"size":10,"uploadDateTime":"2021-02-10T18:25:19.5931388","release":1,"path":"C:\\Other\\Files\\/OTHER_1_NTF1.txt","docId":9}]}]
+ResponseCode: 200
+Responded at: 11.02.2021 10:11:07 +03:00
+
+
